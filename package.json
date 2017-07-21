@@ -21,6 +21,7 @@
     "@angular/platform-browser": "^4.3.1",
     "@angular/platform-browser-dynamic": "^4.3.1",
     "@angular/router": "^4.3.1",
+    "@types/mapbox-gl": "^0.39.2",
     "core-js": "^2.4.1",
     "mapbox-gl": "^0.38.0",
     "rxjs": "^5.4.2",
